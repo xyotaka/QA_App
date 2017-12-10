@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "384050180580",
+    "firebase_url": "https://qaapp-9f677.firebaseio.com",
+    "project_id": "qaapp-9f677",
+    "storage_bucket": "qaapp-9f677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384050180580:android:06c265051f167a17",
+        "android_client_info": {
+          "package_name": "jp.techacademy.bryan.thogerson.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384050180580-8dbs6jf2o83ajste0cv0uuv1u53emt63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjSrZt-vvHE-48aKmtygPeZOMGUR7ibY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
